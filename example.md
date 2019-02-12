@@ -1,3 +1,4 @@
+This is my change
 The English actor Christopher Bullock [said](https://www.mightytaxes.com/death-taxes-quote-history/) that “Tis impossible to be sure of anything but Death and Taxes.” While he certainly wasn’t a software developer, I think that, if he was, the quote would have definitely included the use of software dependencies.
 
 Developers usually make use of other packages, modules, libraries, or whatever your favorite programming language might call it, to make their lives easier. They don’t have to reinvent the wheel and can benefit from the knowledge of other developers. Those packages need to be stored somewhere, to prevent [disappearing code](https://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/) breaking your builds and to make sure your team has access to the same versions.
