@@ -1,3 +1,4 @@
+The First Line Must Be the Blog Title
 ![](https://jfrog.info/wp-content/uploads/2019/01/863X300.jpg)
 Added the header image
 Here is another change to test the auto update feature.
