@@ -1,3 +1,5 @@
+![](https://jfrog.info/wp-content/uploads/2019/01/863X300.jpg)
+Added the header image
 Here is another change to test the auto update feature.
 This is my change. 
 The English actor Christopher Bullock [said](https://www.mightytaxes.com/death-taxes-quote-history/) that “Tis impossible to be sure of anything but Death and Taxes.” While he certainly wasn’t a software developer, I think that, if he was, the quote would have definitely included the use of software dependencies.
